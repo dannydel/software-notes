@@ -80,3 +80,7 @@ You will just need to do one more thing to actually have this running: Add it to
 ```csharp
 builder.Services.AddHostedService<DailyCacheService>();
 ```
+
+
+# Stateful Service
+[How to add a Stateful Service](https://github.com/dannydel/BlazorUtils)
