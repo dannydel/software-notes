@@ -24,3 +24,8 @@ But wait, there's a problem! You don't know how to build a spaceship because it'
 When you use these special blocks, you don't need to worry about how they are made or how they work internally. You just know that if you put them together in a certain way, they will look like a spaceship. This way, you can focus on building the spaceship without getting confused by all the details.
 
 In software development, abstraction is a similar concept. It means using pre-built, simplified pieces of code that represent complex ideas or tasks. These pieces of code are like the special LEGO blocks that help you build a spaceship. By using abstraction, developers can focus on solving problems and creating software without getting overwhelmed by all the technical details behind the scenes. It makes things easier to understand and work with, just like using the special blocks makes it easier to build a spaceship.
+
+
+ Think about how Abstract classes can be inherited base classes from interfaces.
+	- Abstracts can be just thought of as universally understood base classes for objects that other classes/objects can inherit from.
+	- https://www.youtube.com/watch?v=YT8s-90oDC0

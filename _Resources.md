@@ -1,5 +1,8 @@
 # Software Development
 
+## .NET
+[Bunch of Resources for .NET](https://www.reddit.com/r/dotnet/comments/11lrf4p/best_netc_resources_for_senior_engineer/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
 ## Blazor
 
 [Chris Sainty](https://chrissainty.com/)
@@ -43,7 +46,8 @@
 
 ## Architecture 
 [Popular React Folder Structures and Screaming Architecture](https://profy.dev/article/react-folder-structure)
-
+[Azure Application Architecture Fundamentals - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/)
+[Cloud design patterns - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Data Structures and Algorithms
 [Algo and Data Structures to be Sen. Dev](https://www.notion.so/Algo-and-Data-Structures-to-be-Sen-Dev-7e0245517da54c05a766320725c9e0bc)
@@ -67,6 +71,7 @@
 ## Visual Design Rules
 [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/?utm_source=webflow-inspo&utm_medium=email&utm_campaign=jan-25-2023)
 [Laws of UX](https://lawsofux.com/info/)
+[Client First - Finsweet](https://Finsweet.com/client-first)
 
 ## CSS Generators
 [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#e0e0e0)
