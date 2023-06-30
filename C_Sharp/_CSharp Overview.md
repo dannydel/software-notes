@@ -62,3 +62,14 @@ class Program{
 	}
 }
 ```
+
+
+### Frozen Sets and Frozen Dictionaries
+Are quicker than HashSets and Immutable lists in lookup but offer a large performance hit when initialized. They would be best used when gathering a list of items that will not change at the application start, like a list of States and the like.
+
+
+# C# 12
+
+## New Features to look out for:
+- C# Interceptors
+- 
