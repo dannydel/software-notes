@@ -24,4 +24,3 @@ Here is a bash for loop to get those files back:
 #!/bin/bash cd PATH_TO_PROJECT/.git/lost-found/other FILES=* COUNTER = 0 for f in $FILES do   echo "Processing $f file..."   git show  $f > "PATH_TO_RECOVERY_DIRECTORY/$COUNTER.m"   let COUNTER=COUNTER+1 done
 ```
 
-

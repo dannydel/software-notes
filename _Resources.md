@@ -16,6 +16,10 @@
 [Github](https://github.com/)
 [Source Tree - GIT UI](https://www.sourcetreeapp.com/)
 
+## Source Control (Other than GIT)
+[Sapling - A Scalable, User-Friendly Source Control System](https://sapling-scm.com/)
+[TortioseSVN](https://tortoisesvn.net/)
+
 ## Coding Playgrounds
 [SharpLab - Coding Playground](https://sharplab.io/) #csharpcodingplayground
 
@@ -104,3 +108,11 @@
 [Adding RestService Generation to API backend C#](https://www.notion.so/Adding-RestService-Generation-to-API-backend-C-a1ede4871b394066b6388d78c8f9ca82)
 
 [Best Practices](https://www.notion.so/Best-Practices-3d4759be0bf4464ca9458bb93a3e6e14)
+
+<hr>
+
+# Security
+
+# News
+[Hacker News](https://www.thehackernews.com)
+[Hacker News Free Resource Library](https://thehackernews.tradepub.com/)
