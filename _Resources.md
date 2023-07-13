@@ -57,7 +57,12 @@
 [Algo and Data Structures to be Sen. Dev](https://www.notion.so/Algo-and-Data-Structures-to-be-Sen-Dev-7e0245517da54c05a766320725c9e0bc)
 [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - For any languages
 
+## Disassemblers (Reverse Engineering)
+[x64DBG - Disassembler](https://x64dbg.com/)
 
+
+## Reverse Engineering Learning
+[CrackMe](https://www.crackmes.one)
 
 
 <hr>
