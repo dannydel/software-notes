@@ -97,6 +97,10 @@
 
 # Tools
 
+## AI Tools
+[Eraser DiagramGPT](https://www.eraser.io/diagramgpt)
+[ChatGPT](https://chat.openai.com/)
+
 ## Notes
 [Obsidian](https://obsidian.md/)
 
