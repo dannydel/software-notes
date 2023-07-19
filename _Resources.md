@@ -117,7 +117,12 @@
 <hr>
 
 # Security
+TODO
 
 # News
 [Hacker News](https://www.thehackernews.com)
 [Hacker News Free Resource Library](https://thehackernews.tradepub.com/)
+
+# Blogs
+[Tim Deschryver - .NET Dev from Belgium]()
+[John Hitlon - Making Sense of .NET](https://jonhilton.net/)
