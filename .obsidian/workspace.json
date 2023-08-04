@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "477b1fd6e07cb47a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec39eae0bef3277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b451f0cdff0ab8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture & Principles/Repository Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5088a8a22ca59be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6c35518e02b408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbbd8104f0f3b28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a47efa11e7b33004",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed00d5a3ea730f1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f32ebdf2f4d0755",
+    "type": "split",
+    "children": [
+      {
+        "id": "3207a5c45dd06f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c645f527fd1b3f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Architecture & Principles/Repository Pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cf5bc12ff38730a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Architecture & Principles/Repository Pattern.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffe0176137d08ed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a82fdee2830bc6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Architecture & Principles/Repository Pattern.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8dbbd8104f0f3b28",
+  "lastOpenFiles": [
+    "Architecture & Principles/Architecture Overview.md",
+    "Architecture & Principles/Repository Pattern.md",
+    "Architecture & Principles/Discriminated Unions.md",
+    "Architecture & Principles/Factory Pattern.md",
+    "Dotnet/CSharp/Utilities.md",
+    "Dotnet/CSharp",
+    "Dotnet/Untitled.md",
+    "Dotnet/CSharp/CSharp and Dotnet Overview.md",
+    "CSharp and Dotnet/Untitled",
+    "C_Sharp/_CSharp Overview.md",
+    "Pasted image 20230628103020.png",
+    "Docker/Docker Mac OS M2 Expedition.md",
+    "Python/MacOS M2.md",
+    "Python",
+    "Apple/Python",
+    "Apple"
+  ]
+}
