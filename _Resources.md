@@ -130,3 +130,15 @@ TODO
 # Blogs
 [Tim Deschryver - .NET Dev from Belgium]()
 [John Hitlon - Making Sense of .NET](https://jonhilton.net/)
+
+
+# General Awesome Websites
+
+[12ft Paywall buster](https://12ft.io/)
+[10 Min Email - Privatize Emails](https://10minutemail.com/)
+[TinyWow - Free Online Converter](https://tinywow.com/)
+[General Health and Wellness Information](https://www.innerbody.com/)
+[Account Killer - Learn how to kill any online account](https://www.accountkiller.com/)
+[API Testing but with Chuck Norris](https://api.chucknorris.io/)
+[HTML Reference](https://htmlreference.io/)
+[Customizable Loading Gifs](https://loading.io/)
