@@ -1,4 +1,8 @@
-# Software Development
+
+> [!INFO] 
+> Mainly free resources that I have gathered over the years of software developing and learning.
+
+d# Software Development
 
 ## .NET
 [Bunch of Resources for .NET](https://www.reddit.com/r/dotnet/comments/11lrf4p/best_netc_resources_for_senior_engineer/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
@@ -48,6 +52,7 @@
 [SwimBurger - DotNet Blog](https://swimburger.net/)
 [WebDeveloper.com](https://webdeveloper.com/) - Alternative to Stackoverflow and Medium
 [Developing.Dev](https://www.developing.dev/)
+[Systems Design Newsletter](https://newsletter.systemdesign.one/)
 ## Architecture 
 [Popular React Folder Structures and Screaming Architecture](https://profy.dev/article/react-folder-structure)
 [Azure Application Architecture Fundamentals - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/)
@@ -113,9 +118,10 @@
 
 [.Net Cacheing in API](https://www.notion.so/Net-Cacheing-in-API-bd6a66e322f448009ef23b133a5b9a7d)
 
+
 [Microsoft Graph API Processor and Controller](https://www.notion.so/Microsoft-Graph-API-Processor-and-Controller-c94ac8033ec3479d942ffa9289b168ad)
 
-[Adding RestService Generation to API backend C#](https://www.notion.so/Adding-RestService-Generation-to-API-backend-C-a1ede4871b394066b6388d78c8f9ca82)
+[Adding RestService Generation to API backend C#](https://www.notion.so/Adding-RestService-Generation-to-API-backend-C-a1ede4871b394066b6388d78c8f9ca82) - Home Rolled solution
 
 [Best Practices](https://www.notion.so/Best-Practices-3d4759be0bf4464ca9458bb93a3e6e14)
 
