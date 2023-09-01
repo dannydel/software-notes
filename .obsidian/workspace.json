@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec39eae0bef3277",
+        "id": "39430209d3e65cc5",
         "type": "tabs",
         "children": [
           {
-            "id": "b451f0cdff0ab8e6",
+            "id": "b4891db2c67bbf9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture & Principles/Repository Pattern.md",
+                "file": "_Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture & Principles/Repository Pattern.md",
+                "file": "_Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture & Principles/Repository Pattern.md",
+                "file": "_Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture & Principles/Repository Pattern.md"
+                "file": "_Resources.md"
               }
             }
           }
@@ -146,20 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dbbd8104f0f3b28",
+  "active": "b4891db2c67bbf9d",
   "lastOpenFiles": [
+    "Operating Systems/MacOS/Applications.md",
+    "Dotnet/CSharp/CSharp and Dotnet Overview.md",
+    "Dotnet/CSharp/Utilities.md",
+    "Operating Systems/MacOS/🍎 Mac Shortcuts.md",
+    "Tools and Utilities/Web Development Resources.md",
+    "Docker/Docker Overview.md",
+    "Docker/Docker Mac OS M2 Expedition.md",
+    "Dotnet/Microsoft Graph.md",
+    "Dotnet/Examples.md",
+    "Dotnet/Entity Framework Core.md",
+    "Dotnet/Dependency Injection.md",
+    "Dotnet/_Dotnet Overview.md",
+    "_Software Development Notes.md",
+    "_Resources.md",
+    "Operating Systems/Windows/⌨️ Commands.md",
+    "Operating Systems/Windows/Shortcuts.md",
+    "Operating Systems/MacOS",
+    "Architecture & Principles/Micro Services.md",
+    "Operating Systems/Windows",
+    "Operating Systems",
     "Architecture & Principles/Architecture Overview.md",
     "Architecture & Principles/Repository Pattern.md",
     "Architecture & Principles/Discriminated Unions.md",
     "Architecture & Principles/Factory Pattern.md",
-    "Dotnet/CSharp/Utilities.md",
     "Dotnet/CSharp",
     "Dotnet/Untitled.md",
-    "Dotnet/CSharp/CSharp and Dotnet Overview.md",
     "CSharp and Dotnet/Untitled",
     "C_Sharp/_CSharp Overview.md",
     "Pasted image 20230628103020.png",
-    "Docker/Docker Mac OS M2 Expedition.md",
     "Python/MacOS M2.md",
     "Python",
     "Apple/Python",

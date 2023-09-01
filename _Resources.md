@@ -47,11 +47,12 @@
 [CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - All .Net Resources and Examples!!!
 [SwimBurger - DotNet Blog](https://swimburger.net/)
 [WebDeveloper.com](https://webdeveloper.com/) - Alternative to Stackoverflow and Medium
-
+[Developing.Dev](https://www.developing.dev/)
 ## Architecture 
 [Popular React Folder Structures and Screaming Architecture](https://profy.dev/article/react-folder-structure)
 [Azure Application Architecture Fundamentals - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/)
 [Cloud design patterns - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+[# 8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 
 ## Data Structures and Algorithms
 [Algo and Data Structures to be Sen. Dev](https://www.notion.so/Algo-and-Data-Structures-to-be-Sen-Dev-7e0245517da54c05a766320725c9e0bc)
