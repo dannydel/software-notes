@@ -2,10 +2,11 @@
 > [!INFO] 
 > Mainly free resources that I have gathered over the years of software developing and learning.
 
-d# Software Development
+# Software Development
 
 ## .NET
 [Bunch of Resources for .NET](https://www.reddit.com/r/dotnet/comments/11lrf4p/best_netc_resources_for_senior_engineer/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+[.NET Examples from Microsoft](https://learn.microsoft.com/en-us/samples/browse/)
 
 ## Blazor
 
