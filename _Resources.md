@@ -14,6 +14,12 @@
 [MudBlazor](https://mudblazor.com/)
 [Blazor School](https://blazorschool.com/)
 
+# MAUI
+[Steven Thewissen - Xamarin, .NET Development and more](https://thewissen.io/)
+
+# XAML
+[Debug Rainbows](https://github.com/sthewissen/Plugin.Maui.DebugRainbows)
+
 ## React
 [React](https://react.dev/learn)
 
@@ -41,7 +47,7 @@
 [Firebase](https://firebase.google.com/)
 
 ## Utility Apps
-⭐[DevToys - Swiss Army Knife for Devs](https://devtoys.app/)
+⭐[DevToys - Swiss Army Knife for Devs](https://devtoys.app/) `ris:Windows`
 [Awesome Tools](https://www.notion.so/Awesome-Tools-0eae1820ee1843e793437208ccd069e9) - List of a bunch of cool tools
 [LucidCharts](https://lucid.app/d)
 
@@ -49,7 +55,7 @@
 [Coding Gurus - Tech and Systems Design Interview Courses](https://www.designgurus.io/)
 ⭐[W3Schools](https://www.w3schools.com/)
 🎒[370 Free Computer Science Course](https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/#computer-science)
-[CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - All .Net Resources and Examples!!!
+[CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides] - All .Net Resources and Examples!!!
 [SwimBurger - DotNet Blog](https://swimburger.net/)
 [WebDeveloper.com](https://webdeveloper.com/) - Alternative to Stackoverflow and Medium
 [Developing.Dev](https://www.developing.dev/)
@@ -66,6 +72,7 @@
 
 ## Disassemblers (Reverse Engineering)
 [x64DBG - Disassembler](https://x64dbg.com/)
+[DotPeek](https://www.jetbrains.com/decompiler/)
 
 
 ## Reverse Engineering Learning
@@ -102,6 +109,18 @@
 [JustInMind - Figma Alternative](https://www.justinmind.com/)
 [HtmlRev](https://htmlrev.com/) - Free Landong Page Templates
 
+# Font
+[Pictogrammers](https://pictogrammers.com/library/mdi/) - Free Open Source Icons
+[Fontello](https://fontello.com/) - Icon Font generator (Takes SVGs and makes them into ttf or glyphs)
+[IconFont2Code](https://andreinitescu.github.io/IconFont2Code/) - Creates the C# code reference for each Glyph uploaded
+
+## Free Illustrations for Apps
+https://handcrafts.undraw.co/
+
+# Image Optimizer
+[Squoosh](https://squoosh.app/)
+[Pngquant](https://pngquant.org/)
+
 # Tools
 
 ## AI Tools
@@ -118,7 +137,6 @@
 # Code FAQ & References
 
 [.Net Cacheing in API](https://www.notion.so/Net-Cacheing-in-API-bd6a66e322f448009ef23b133a5b9a7d)
-
 
 [Microsoft Graph API Processor and Controller](https://www.notion.so/Microsoft-Graph-API-Processor-and-Controller-c94ac8033ec3479d942ffa9289b168ad)
 
@@ -150,3 +168,4 @@ TODO
 [API Testing but with Chuck Norris](https://api.chucknorris.io/)
 [HTML Reference](https://htmlreference.io/)
 [Customizable Loading Gifs](https://loading.io/)
+[Temporary Emails](https://temp-mail.org/en/)

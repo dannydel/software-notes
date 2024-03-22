@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "906cc82d9dfc4129",
+        "id": "e7f3a0ecabd13e8c",
         "type": "tabs",
         "children": [
           {
-            "id": "44ac2a480d9c47b7",
+            "id": "6a9b4fead3c1a7db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -156,29 +158,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44ac2a480d9c47b7",
+  "active": "6a9b4fead3c1a7db",
   "lastOpenFiles": [
+    "Architecture & Principles/Architecture Overview.md",
+    "[[_Resources.md",
+    "Design/Design Overview.md",
+    "Hosting/AWS/SQS.md",
+    "Tools and Utilities/Jetbrains Rider.md",
+    "Tools and Utilities/Web Development Resources.md",
+    "_Resources.md",
+    "_Software Development Notes.md",
+    "Architecture & Principles/Publisher-Subscriber Pattern.md",
+    "Operating Systems/MacOS/Mac Terminal Commands.md",
+    "Docker/Docker Mac OS M2 Expedition.md",
+    "Docker/Docker Overview.md",
     "Dotnet/_Dotnet Overview.md",
     "Dotnet/Examples.md",
-    "Operating Systems/MacOS/Mac Terminal Commands.md",
     "Operating Systems/Windows/⌨️ Commands.md",
     "Operating Systems/Windows/Shortcuts.md",
     "Operating Systems/MacOS/Applications.md",
-    "Hosting/AWS/SQS.md",
     "Dotnet/Blazor/Launch Settings.md",
     "Hosting/AWS",
     "Hosting",
     "Dotnet/Blazor/MAUI.md",
     "Dotnet/Azure/Images/Pasted image 20230628103020.png",
     "Dotnet/Azure/Images",
-    "_Software Development Notes.md",
-    "_Resources.md",
     "Dotnet/CSharp/CSharp and Dotnet Overview.md",
     "Dotnet/CSharp/Utilities.md",
     "Operating Systems/MacOS/🍎 Mac Shortcuts.md",
-    "Tools and Utilities/Web Development Resources.md",
-    "Docker/Docker Overview.md",
-    "Docker/Docker Mac OS M2 Expedition.md",
     "Dotnet/Microsoft Graph.md",
     "Dotnet/Entity Framework Core.md",
     "Dotnet/Dependency Injection.md",
@@ -186,12 +193,7 @@
     "Architecture & Principles/Micro Services.md",
     "Operating Systems/Windows",
     "Operating Systems",
-    "Architecture & Principles/Architecture Overview.md",
-    "Architecture & Principles/Repository Pattern.md",
-    "Architecture & Principles/Discriminated Unions.md",
-    "Architecture & Principles/Factory Pattern.md",
     "Dotnet/CSharp",
-    "Dotnet/Untitled.md",
     "CSharp and Dotnet/Untitled",
     "Python",
     "Apple/Python"

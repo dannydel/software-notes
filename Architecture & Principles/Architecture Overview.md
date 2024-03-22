@@ -15,4 +15,7 @@
 # Type Theory
 [[Discriminated Unions]]
 
+# Resources
+[[_Resources#Data Structures and Algorithms]]
+
 
