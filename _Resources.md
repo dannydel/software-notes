@@ -102,6 +102,11 @@
 ## Practice
 [UX Challenge Practice](http://www.uxchallenge.co/)
 
+## HTML
+[MDN - Mozilla Dev Docs](https://developer.mozilla.org/en-US/) - All HTML, CSS, and JS Standards
+[W3SChools](https://www.w3schools.com/) - Has a bit of everything!
+[Free Code Camp](https://www.freecodecamp.org/)
+
 ## CSS Tips and Tricks
 [CSS Tricks](https://css-tricks.com/)
 
